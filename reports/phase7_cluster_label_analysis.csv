@@ -1,0 +1,3 @@
+Cluster,BENIGN,Bot,DDoS,DoS GoldenEye,DoS Hulk,DoS Slowhttptest,DoS slowloris,FTP-Patator,Heartbleed,Infiltration,PortScan,SSH-Patator,Web Attack - Brute Force,Web Attack - Sql Injection,Web Attack - XSS
+0,803,10,701,187,2472,314,765,0,11,24,2,0,0,0,0
+1,19197,990,3299,1313,1528,1186,735,1500,0,12,3998,1500,1000,21,652

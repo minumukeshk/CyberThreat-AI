@@ -1,0 +1,16 @@
+Class,Misclassified_Count
+BENIGN,22
+Bot,31
+DDoS,1
+DoS GoldenEye,3
+DoS Hulk,4
+DoS Slowhttptest,4
+DoS slowloris,2
+FTP-Patator,0
+Heartbleed,0
+Infiltration,3
+PortScan,0
+SSH-Patator,1
+Web Attack - Brute Force,49
+Web Attack - Sql Injection,3
+Web Attack - XSS,58

@@ -1,0 +1,25 @@
+Actual,Predicted,Count
+Web Attack - XSS,Web Attack - Brute Force,56
+Web Attack - Brute Force,Web Attack - XSS,44
+Bot,BENIGN,31
+BENIGN,Bot,11
+Web Attack - Brute Force,BENIGN,5
+BENIGN,DoS Hulk,4
+DoS Hulk,BENIGN,4
+Infiltration,BENIGN,3
+DoS GoldenEye,BENIGN,3
+DoS Slowhttptest,DoS slowloris,3
+Web Attack - XSS,BENIGN,2
+Web Attack - Sql Injection,BENIGN,2
+BENIGN,Web Attack - XSS,2
+BENIGN,DDoS,1
+BENIGN,DoS Slowhttptest,1
+BENIGN,DoS GoldenEye,1
+BENIGN,Web Attack - Brute Force,1
+BENIGN,SSH-Patator,1
+DoS Slowhttptest,BENIGN,1
+DDoS,BENIGN,1
+DoS slowloris,DoS Slowhttptest,1
+DoS slowloris,BENIGN,1
+SSH-Patator,BENIGN,1
+Web Attack - Sql Injection,Web Attack - Brute Force,1

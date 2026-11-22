@@ -1,0 +1,15 @@
+EDA Metric,Result
+Total Records,42220
+Original Dataset Columns,77
+Derived EDA Columns,3
+Total EDA DataFrame Columns,80
+Unique Attack Categories,14
+Days Covered,5
+Benign Records,20000
+Attack Records,22220
+Highest Frequency Attack,DDoS
+Highest Frequency Attack Count,4000
+Lowest Frequency Attack,Heartbleed
+Lowest Frequency Attack Count,11
+Feature with Highest Outlier Percentage,Packet Length Mean
+Highest Outlier Percentage,19.23
